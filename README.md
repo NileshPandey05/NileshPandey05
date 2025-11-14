@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nilesh Pandey</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGttdnU5eDh5bXA1ZXNvMjd2bnFwejdtdzc3aDg0MmI0dGZqOW5mNiZlcD12MV9naWZzX3NlYXJjaCZjdT1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
+</p>
 
 # 💫 About Me:
 🌱 I’m currently learning Nextjs with Postgres<br>📫 How to reach me nileshpandey200311@gmail.com<br>
@@ -20,8 +22,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NileshPandey05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NileshPandey05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+[![](https://visitcount.itsvg.in/api?id=NileshPandey05&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NileshPandey05&icon=0&color=0)](https://visitcount.itsvg.in)
