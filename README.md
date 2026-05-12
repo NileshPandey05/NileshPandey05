@@ -27,12 +27,28 @@
 
 ```ts
 const nilesh = {
-  role        : "Full Stack Developer",
-  location    : "India 🇮🇳",
-  currentFocus: ["Next.js", "PostgreSQL", "System Design"],
-  passions    : ["Clean Code", "Performance", "Great UX"],
-  openTo      : ["Collaborations", "Freelance", "Open Source"],
-  funFact     : "I debug with console.log and I'm not ashamed 😄",
+  role: "Full Stack Developer",
+  location: "India 🇮🇳",
+
+  currentState: [
+    "Turning caffeine into scalable applications",
+    "Fighting TypeScript errors at 2AM",
+    "Convincing myself this refactor is worth it"
+  ],
+
+  developerLore: {
+    debuggingSkill: "console.log('fixed')",
+    productionStrategy: "push first, pray later",
+    relationshipWithCSS: "it's complicated",
+    commits: ["final-final", "fixed-again", "please-work"]
+  },
+
+  openTo: [
+    "Collaborations",
+    "Freelance",
+    "Open Source",
+    "Random startup ideas at midnight"
+  ]
 };
 ```
 
@@ -65,6 +81,7 @@ const nilesh = {
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logo=shield&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ### 🗄️ Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -72,6 +89,7 @@ const nilesh = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -87,7 +105,7 @@ const nilesh = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white)
 
 ---
 
@@ -112,8 +130,6 @@ const nilesh = {
 ---
 
 <div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=NileshPandey05&label=Profile%20Views&icon=6&pretty=true&color=6)
 
 **Thanks for stopping by! Let's build something great together. 🚀**
 
