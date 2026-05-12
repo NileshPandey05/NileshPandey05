@@ -39,7 +39,6 @@ const nilesh = {
   developerLore: {
     debuggingSkill: "console.log('fixed')",
     productionStrategy: "push first, pray later",
-    relationshipWithCSS: "it's complicated",
     commits: ["final-final", "fixed-again", "please-work"]
   },
 
